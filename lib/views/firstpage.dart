@@ -55,3 +55,5 @@ class FirstScreen extends StatelessWidget {
     );
   }
 }
+
+class Netmate {}
